@@ -36,7 +36,7 @@ export function AboutStory() {
           </p>
 
           {/* CTA Button */}
-          <Link to="https://3nn5hf-my.sharepoint.com/:b:/g/personal/intr0vert_08_3nn5hf_onmicrosoft_com/IQBvIgQbfE87SYvYUUOHQmiRAYEB3qZpHCP8ddMSsoO4Auk?e=H7OcNR">
+          <Link to="/menu">
             <Button
               size="lg"
               className="bg-primary hover:bg-primary/90 text-primary-foreground font-semibold px-10 py-6 text-lg tracking-wide"

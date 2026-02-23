@@ -77,7 +77,6 @@ export function MenuPreview() {
           </Link>
           <div className="flex-1 h-px bg-white/30" />
         </div>
-
       </div>
     </section>
   );
