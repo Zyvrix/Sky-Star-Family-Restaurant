@@ -61,7 +61,7 @@ export default function Menu() {
               variant="outline"
               size="lg"
               className="bg-primary hover:bg-primary/90 text-primary-foreground font-semibold "
-              onClick={() => window.open("https://3nn5hf-my.sharepoint.com/:b:/g/personal/intr0vert_08_3nn5hf_onmicrosoft_com/IQBvIgQbfE87SYvYUUOHQmiRAYEB3qZpHCP8ddMSsoO4Auk?e=H7OcNR", "_blank")}
+              onClick={() => window.open("https://skystarhotel.in/Sky_Star_Menu.pdf", "_blank")}
             >
               <Download className="w-4 h-4 mr-2" />
               Download Menu PDF
@@ -118,7 +118,7 @@ export default function Menu() {
               <Button
                 size="lg"
                 className="bg-primary hover:bg-primary/90 text-primary-foreground font-semibold px-10 py-6 text-lg"
-                onClick={() => window.open("https://3nn5hf-my.sharepoint.com/:b:/g/personal/intr0vert_08_3nn5hf_onmicrosoft_com/IQBvIgQbfE87SYvYUUOHQmiRAYEB3qZpHCP8ddMSsoO4Auk?e=H7OcNR", "_blank")}
+                onClick={() => window.open("https://skystarhotel.in/Sky_Star_Menu.pdf", "_blank")}
               >
                 <Download className="w-5 h-5 mr-3" />
                 Download Full Menu
